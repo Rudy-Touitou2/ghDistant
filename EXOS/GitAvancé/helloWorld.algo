@@ -3,7 +3,7 @@ fonction principale {
 // Création de la fenetre
 HELLO_WORLD
 BACKGROUND_COLOR
-Mettre la dimension à 1920, 1080
+Mettre la dimension à 300, 300 
 Configurer la fenetre sur ‘exitOnClose’
 
 // Création du label de texte
