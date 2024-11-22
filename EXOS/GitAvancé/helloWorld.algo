@@ -1,9 +1,9 @@
 Algo HelloWorld {
 fonction principale {
 // Création de la fenetre
-HELLO_WORLD
+HELLO_WORLD <date du jour>
 BACKGROUND_COLOR
-Mettre la dimension à 1920, 1080
+Mettre la dimension à 1200, 980
 Configurer la fenetre sur ‘exitOnClose’
 
 // Création du label de texte
