@@ -1,0 +1,22 @@
+Algo HelloWorld {
+fonction principale {
+// Création de la fenetre
+HELLO_WORLD
+BACKGROUND_COLOR
+Mettre la dimension à 1920, 1080
+Configurer la fenetre sur ‘exitOnClose’
+
+// Création du label de texte
+TEXT_COLOR = « bleu »
+text-align: left
+
+EXECUTION DU SCRIPT
+
+HELLO_WORLD
+
+
+// Finalisation
+Ajouter le lable sur la fenetre
+Afficher la fenêtre
+} 
+}
